@@ -11,6 +11,6 @@ Welcome to my GitHub! I'm passionate about building meaningful tech products, te
 - 📍 Based in Be’er Sheva | 🧳 Open to remote/hybrid roles in tech & education  
 - ✨ Let’s connect: [qorenmorlevin@gmail.com](mailto:qorenmorlevin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/oren-ml/)
 
-> “Tech is powerful, but people make it meaningful.”
+> “I want to give kids and adults the opportunity I didn't have, to be able to go further in a shorter time.”
 
 Feel free to explore my projects, reach out, or just say hi!

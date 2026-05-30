@@ -13,7 +13,7 @@ Currently, I'm driving organizational efficiency at **WeRIsrael** (an incoming t
 * **Languages:** Java, C#, Python, JavaScript, HTML
 * **Web & Full-Stack:** React, Node.js, WordPress, Elementor, Wix
 * **Database & VCS:** SQLite, DBeaver, Git
-* **AI & Rapid Dev:** Gemini, ChatGPT, Claude (Agents & Code), Codex, Lovable, Base44
+* **AI:** Gemini, ChatGPT, Claude (Agents & Code), Codex, Lovable, Base44
 
 If you want to connect, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/oren-ml/)!
 
